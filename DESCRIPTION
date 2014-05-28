@@ -1,0 +1,9 @@
+Package: Rneo4j
+Type: Package
+Title: Interface for the connection between R and Neo4j
+Version: 0.1
+Date: 2014-05-26
+Author: Vera Friederichs
+Maintainer: Vera Friederichs <veraanadi@gmail.com>
+Description: Interface for the connection between R and Neo4j
+License: ??
